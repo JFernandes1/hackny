@@ -1,0 +1,22 @@
+{
+  "name": "hackny",
+  "version": "1.0.0",
+  "description": "HackNY Spring 2016",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JFernandes1/hackny.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JFernandes1/hackny/issues"
+  },
+  "homepage": "https://github.com/JFernandes1/hackny#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
